@@ -40,7 +40,7 @@ git push -u origin main
 ```
 login เข้า git ตามที่ คำสั่ง push แนะนำ
 
-![ตัวอย่างการสั่งงาน](blob/main/git_scenario1_try1.png)
+![ตัวอย่างการสั่งงาน](./blob/main/git_scenario1_try1.png)
 
 ทุกครั้งก่อนที่จะ push ใหม่ ก็ commit -am "[memo to this commit]"  
 
