@@ -38,6 +38,14 @@ git commit -am "memo to this commit"
 ```git
 git push -u origin main 
 ```
+login เข้า git ตามที่ คำสั่ง push แนะนำ
+
+[ตัวอย่างการสั่งงาน](git_scenario1_try1.png)
+
+git จะทำทุกอย่างที่เราทำกับไฟล์ที่มัน track อยู่ ดังนั้น ตอนนี้ควรลบ แฟ้ม .git ทิ้งไปก่อน 
+
+เมื่อเราเชี่ยวชาญกว่านี้เราค่อยปล่อยให้มันทำงาน
+
 ---
 
 [^1]: คำสั่งครั้งเดียวเพื่อ ตั้งค่า configuration ของ git account จาก client คือ
