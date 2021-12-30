@@ -28,7 +28,7 @@ git commit -am "memo to this commit"
 
 สั่ง git remote add origin [https://github.com/[user]/[reponame]]()
 
-[คำแนะนำจาก git ช่วยได้เยอะ](git_scenario1.png)
+[คำแนะนำจาก git ช่วยได้เยอะ](https://github.com/suntana-kmitl/6004c/blob/main/git_config1.png)
 
 สังเกตว่า git ตั้งชื่อ branch ว่า  main  ให้เรา
 
@@ -40,7 +40,7 @@ git push -u origin main
 ```
 login เข้า git ตามที่ คำสั่ง push แนะนำ
 
-[ตัวอย่างการสั่งงาน](git_scenario1_try1.png)
+[ตัวอย่างการสั่งงาน](blob/main/git_scenario1_try1.png)
 
 ทุกครั้งก่อนที่จะ push ใหม่ ก็ commit -am "[memo to this commit]"  
 
